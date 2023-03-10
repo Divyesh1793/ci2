@@ -1,0 +1,107 @@
+
+    #mycat .owl-item{
+        width: 198px!important;
+    }
+
+    span.select2-selection.select2-selection--single {
+        height: 42px;
+        padding-top: 5px;
+    }
+    span.select2-selection__arrow{
+        height: 39px !important;
+    }
+    .hide-nav .owl-controls {
+        display: none;
+    }
+
+    .style__heading___pc8n7 {
+        font-size: 18px;
+        color: #212121;
+    }
+
+    .style__view-all-btn___1v_UG {
+        font-weight: 700;
+    }
+    .style__xs___E2aat {
+
+        font-size: .75rem;
+    }
+    .style__info___1X5WU, .style__info___1X5WU:active, .style__info___1X5WU:focus, .style__info___1X5WU:hover {
+       background-color: #F0BC5E;
+    	color: #333;
+    	float: right;
+    	border-radius: 5px;
+    	line-height: 9px;
+    }
+
+    @media (max-width: 767px){
+
+        .container-fluid.shop {
+    padding: 6px!important;
+}
+
+.single-brand-logo.text-center {
+margin: 15px 15px 0px 15px!important;
+
+}
+
+.single-slider.pt-200.pb-210.bg-img img {
+
+    height: 120px;
+}
+
+img.produ_img {
+    width: 100%!important;
+}
+
+.product-price-cart-wrapper {
+    display: block!important;
+    margin-top: 5px;
+}
+.product-content {
+   text-align: center;
+}
+}
+
+.product-price-cart-wrapper {
+    margin-top: 5px;
+}
+.sale-box {
+    position: absolute;
+    top: -5px;
+    overflow: hidden;
+    height: 91px;
+    width: 137px;
+    text-align: center;
+    z-index: 0;
+    right: 0;
+    border-top-right-radius: 0.7em;
+    -o-border-top-right-radius: 0.7em;
+    -moz-border-top-right-radius: 0.7em;
+    -webkit-border-top-right-radius: 0.7em;
+}
+.sale-box span.on_sale {
+   font-size: 14px;
+    color: white;
+    background: #0070c0;
+    text-transform: uppercase;
+    padding: 57px 38px 9px 30px;
+    width: 272px;
+    text-align: center;
+    display: block;
+    position: absolute;
+    left: 0px;
+    top: -41px;
+    -moz-transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    -webkit-transform: rotate(-44deg);
+    -ms-transform: rotate(-44deg);
+    transform: rotate(40deg);
+    box-shadow: 3px -4px 13px 3px rgba(0,0,0,0.75);
+}
+.slider-active .owl-stage-outer {
+    pointer-events: none;
+    box-shadow: 0 0 7px 0 rgba(0,0,0,.14);
+}
+

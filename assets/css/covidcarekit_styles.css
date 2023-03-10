@@ -1,0 +1,457 @@
+
+h1, h2, h3, h4, h5, h6{
+    color: #000000;
+}
+.navhedbox_cover {
+    float: left;
+}
+
+section#content {
+    display: inline-block;
+    width: 100%;
+    float: left;
+}
+#kit-items .owl-nav button{
+        background-color: transparent!important;
+        color: #fff;
+        border: 0!important;
+    }
+    .grey-bg{
+        background-color:#F2F2F2;	
+    }
+    .benefits-inner{
+        display: flex;
+        align-items: flex-end;
+        margin:20px 0px;
+    }
+    .benefits-inner img{
+        margin-right: 20px;
+    }
+
+    .medi-info {
+    padding: 50px;
+    }
+
+    .medi-info-inner {
+    padding: 25px 50px;
+    border: 2px solid #0C347B;
+    border-radius: 16px;
+    }
+
+    .medi-info-text {
+    padding: 5px 2px;
+    margin-top: -55px;
+    margin-bottom: 20px;
+    border-radius: 16px;
+    }
+
+    .medi-info-text h4 {
+    font-size: 18px;
+    text-align: center;
+    padding: 5px 0px;
+    color: #fff;
+    padding: 15px 15px;
+    background-color: #0c3478;
+    border-radius: 10px;
+
+    }
+
+    .medi-info-text p {
+
+        width:78%;
+
+    }
+
+    .medi-info-text {
+    display: flex;
+    }
+    .i-table{
+        border:2px solid #0C347B;
+        background-color: #ffffff;
+        height:300px;
+        margin:5px;
+        border-radius:16px;
+        display:flex;
+        flex-direction: column;
+        padding-bottom:25px;
+    }
+    .i-title {
+        background-color: #0C347B;
+        border-top-right-radius: 12px;
+        border-top-left-radius: 12px;
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+    .i-title p strong{
+        color:#FF9900;
+        margin-bottom:5px !important;
+    
+    }
+    .i-title p{
+        margin-bottom:5px !important;
+    
+    }
+    .i-title .cov-price .main{
+        font-size:34px;
+        color: #F1F6FD;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+    }
+    .i-title .cov-price .cut{
+        font-size:18px;
+        color: #F1F6FD;
+        text-decoration: line-through;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+    
+    }
+
+    /* Inline #23 | http://127.0.0.1:5500/home.html */
+
+    .info-icon img {
+    height: 50px;
+    width: auto !important;
+    }
+
+    .info-icon {
+    display: flex;
+    }
+
+    .info-text-blk p {
+    padding: 0px inherit;
+    line-height: 23px;
+    }
+
+    .info-text-blk {
+    margin-left: 10px;
+    }
+
+    /* Element | http://127.0.0.1:5500/home.html */
+
+    .info-icon {
+    padding: 30px 10px;
+    }
+    .info-point ul li {
+    display: inline;
+    list-style: disc;
+    }
+
+    /* Inline #23 | http://127.0.0.1:5500/home.html */
+
+    .cov-title.text-center.pb-5 h4 {
+    font-size: 18px;
+    font-weight: 600;
+    }
+
+    .cov-title p {
+    font-size: 16px;
+    padding-top: 10px;
+    }
+
+    .item p strong {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    color: #000;
+    }
+
+    .item p {
+    font-size: 14px;
+    color: #808080;
+    margin-bottom: `;
+    }
+    .thmBtn1 {
+        font-size: 16px;
+        line-height: 1.1;
+        background-color: #f7931e;
+        color: #fff !important;
+        border-radius: 50px;
+        font-weight: 600;
+        padding: 14px 50px;
+        border: 1px solid transparent;
+        box-shadow: none !important;
+        display:inline-block;
+        margin-top: 24px;
+        margin-bottom: 28px;
+    }
+    .thmBtn1:hover {
+        background-color: #0C347B;
+    }
+    .benifit-title p {
+    font-size: 18px;
+    font-weight: 600;
+    }
+    .benefits-inner p {
+    font-size: 18px;
+    color: #646464;
+    }
+    .covid-pin{
+        border-top:0px !important;
+    }
+
+/* Inline #17 | http://localhost/dhani-covid-care-health-kit/home.html */
+
+.i-title p strong {
+/* color: #FF9900; */
+color: #fff;
+font-size: 24px;
+font-weight: 700;
+}
+
+.info-point ul li {
+/* display: inline; */
+display: inline-block;
+font-size: 12px;
+margin: 0px 7px;
+}
+
+/* Inline #23 | http://localhost/dhani-covid-care-health-kit/home.html */
+
+.cov-info-dis .main {
+color: #FF9900;
+text-align: center;
+font-size: 14px;
+font-weight: 500;
+}
+
+.info-text-blk p strong {
+font-size: 16px;
+font-weight: 600;
+color: #000;
+}
+
+.info-text-blk p {
+font-size: 14px;
+color: #646464;
+}
+
+.info-point-m ul li::after {
+content:"";
+height: 10px;
+width: 10px;
+background-color: #27B446;
+display: inline-block;
+border-radius: 10px;
+margin-top: -15px;
+position: absolute;
+margin-left: -25px;
+}
+.point-s ul li::after {
+content:"";
+height: 10px;
+width: 10px;
+background-color: #27B446;
+display: inline-block;
+border-radius: 10px;
+margin-top: -20px;
+position: absolute;
+left: 50%;
+transform: translateX(50%);
+}
+
+.info-point-m ul li::before {
+content: "";
+width: 60px;
+height: 1px;
+border-top: 1px solid #000;
+display: flex;
+margin-top: -10px;
+position: absolute;
+margin-left: 20px;
+}
+.info-point-m ul li:nth-child(4)::before {
+content: "";
+width: 49px;
+height: 1px;
+border-top: 0px solid #000;
+display: flex;
+margin-top: -5px;
+position: absolute;
+margin-left: 20px;
+}
+
+
+.info-point ul li::before {
+border-top: 1px dashed #dadada;
+}
+#instruction-covid .owl-nav button{
+background-color: transparent!important;
+color: #fff;
+border: 0!important;
+}
+#instruction-covid .owl-nav{
+text-align:center;
+width:100%;
+}
+.info-fo-text {
+padding: ;
+padding-top: 30px;
+}
+.info-fo-text p {
+font-size: 16px;
+padding-bottom: 10px;
+}
+.covid-docs p {
+text-transform: none;
+font-size: 18px;
+}
+.specialities-list .safetyassuredbox_img img {
+width: 80px !important;
+}
+.safetyassuredboxlist .specialities-list p {
+font-size: 14px;
+}
+.specialities-list p {
+font-size: 14px !important;
+text-transform: none;
+}
+.pharm-covid .owl-nav {
+text-align: center;
+padding: 20px;
+}
+
+.info-text-blk p {
+margin-bottom: 0px;
+}
+.info-icon {
+align-items: center;
+}
+.point-s {
+padding-top: 20px;
+}
+.info-point-m {
+padding-top: 20px;
+}
+.intructions p strong {
+font-size: 18px;
+}
+
+.doctors-sec .testimoni_usernamedit {
+display: flex;
+align-items: center;
+}
+
+.doctors-sec .testimoni_userimg {
+
+float: right;
+margin-left: auto;
+}
+.covid-pin h3{
+font-size:22px;
+}
+.mobile_banner{
+/* margin-top:2px;
+padding-top:44px !important; */
+}
+.desktop_banner {
+padding-top: 0px !important;
+margin: 0;
+}
+
+.testimoni_userimg img{
+    border: 1px solid #c7c7c7;
+    object-fit: cover;
+}
+.mainallprodhomebg1.py-5 .tophedboxhome_title{
+    padding-top: 3px;
+    padding-bottom: 12px;
+}
+
+.pedstmanincover1{
+    padding-bottom: 18px !important;
+}
+.mainallprodhomebg1.py-5{
+    padding-bottom: 22px !important;
+}
+.appdownloadlistcoverset{
+    margin-top: 8px;
+}
+
+
+@media screen and (max-width:991px){
+    .sldarrolistboxset {
+        margin-bottom: 0px !important;
+    }
+    .safetyboxcoverborder .owl-nav button.owl-prev {
+        top: 0px !important;
+        right: 0px !important;
+        position: relative !important;
+            transform: inherit;
+    }
+    .safetyboxcoverborder .owl-nav button.owl-next {
+        top: 0px !important;
+        right: 0px !important;
+        position: relative !important;
+            transform: inherit;
+    }
+    .safetyboxcoverborder .owl-nav {
+        text-align: center;
+    }
+
+    
+    .mainallprodhomebg1.py-5 .owl-nav button.owl-prev {
+        top: 0px !important;
+        right: 0px !important;
+        position: relative !important;
+            transform: inherit;
+    }
+    .mainallprodhomebg1.py-5 .owl-nav button.owl-next {
+        top: 0px !important;
+        right: 0px !important;
+        position: relative !important;
+            transform: inherit;
+    }
+    .mainallprodhomebg1.py-5 .owl-nav {
+        text-align: center;
+    }
+    
+    .mainallprodhomebg1.py-5{
+
+    }
+}
+@media screen and (max-width:768px){
+    .mainallprodhomebg1.py-5{
+        padding-top: 10px !important;
+    }
+.covid-docs{
+    padding-bottom:0px;
+}
+.benefit-image{
+    display:none;
+}
+.specialist-title{
+    padding-bottom:0px;
+}
+.medi-info{
+    padding:50px 5px;
+}
+.medi-info-inner{
+    padding:25px 25px;
+}
+.medi-info-text p{
+    width:100%;
+}
+.covid-pin .pincodsrvdorderdel_iner {
+width: 100%;
+}
+}
+
+
+@media screen and (min-width:769px){
+    .pharm-covid .owl-nav {
+        display:none !important;
+    }
+    #instruction-covid .owl-nav {
+        display:none !important;
+    }
+}
+
+@media screen and (max-width:612px){
+    .info-point ul li{
+        margin: 0px 2px;
+    }
+    .info-point.info-point-m{
+        padding-left: 0;
+        padding-right: 0;
+    }
+}

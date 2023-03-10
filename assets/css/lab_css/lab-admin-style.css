@@ -1,0 +1,150 @@
+
+.orditboxset_cover{
+	display: inline-block;
+	width: 100%;
+}
+.odrditboxsetinr{
+	display: inline-block;
+	width: 100%;
+	min-height: 238px;
+}
+.orditboxset_iner{
+	display: inline-block;
+	width: 100%;
+}
+
+.odrditboxset_title{
+	display: inline-block;
+	width: 100%;
+    padding: 15px 15px 10px;
+    border-bottom: 1px solid #eeeeee;
+}
+.odrditboxset_ditall{
+	display: inline-block;
+	width: 100%;
+	padding: 15px 15px 10px;
+}
+
+.odrditboxset_title h4{
+	display: inline-block;
+	width: 100%;
+	margin: 0;
+	font-size: 17px;
+	font-weight: normal;
+	font-family: 'Mukta Malar', sans-serif;
+    font-weight: 600;
+
+}
+.odrditboxset_title h4 span{
+	/*font-weight: 600;*/
+	margin-right: 5px;
+}
+
+.odrditboxset_ditall p{
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 3px;
+    float: left;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: 'Mukta Malar', sans-serif;
+    position: relative;
+   
+}
+.odrditboxset_ditall span{
+	display: inline-block;
+	/*min-width: 110px;*/
+	margin-right: 8px;
+ 	/*font-weight: 600;*/
+ 	float: left;
+}
+
+.detaordditbox{
+	display: inline-block;
+	float: left !important;
+    font-weight: normal !important;
+    width: 64%;
+    margin-right: 0 !important;
+    font-weight: 600 !important;
+    font-size: 15px !important;
+}
+
+.homePickupbox{
+	display: inline-block;
+    width: 100%;
+    border-top: 1px solid #e2e2e2;
+    padding-top: 7px;
+    margin-top: 3px;
+}
+.homePickupbox h4{
+    display: inline-block;
+    width: 100%;
+    font-size: 17px;
+    font-weight: 300;
+    margin-bottom: 13px;
+}
+
+.tblrespocover{
+	padding-top: 10px;
+}
+.cartdittblset{
+	display: inline-block;
+	width: 100%;
+	padding: 15px;
+}
+
+.carttotalbox{
+	display: inline-block;
+	width: 100%;
+}
+.carttotal_iner{
+	display: inline-block;
+	width: 482px;
+	float: right;
+}
+
+.carttotal_iner p{
+    margin-bottom: 10px;
+    font-size: 19px;
+    font-weight: 300;
+    line-height: 1.4;
+    padding-right: 8px;
+}
+
+.allpagebtnboxset{
+	display: inline-block;
+	width: 100%;
+}
+
+.inputformcover{
+	display: inline-block;
+	width: 100%;
+}
+.inputformcover label{
+	width: 100%;
+    display: inline-block;
+    font-weight: normal;
+}
+.inputformcover input{
+	
+}
+
+.leftcode{
+	width: 25%;
+	float: left;
+}
+.rightnumber{
+	width: 75%;
+	float: left;
+}
+
+.skin-blue .btn-primary, .skin-blue .btn-primary .ink, .skin-blue .btn-primary.active, .skin-blue .btn-primary:active, .skin-blue .btn-primary:focus, .skin-blue .btn-primary:hover, .skin-blue .dropdown-toggle.btn-primary, .skin-blue .dropdown-toggle.btn-primary .ink, .skin-blue .dropdown-toggle.btn-primary.active, .skin-blue .dropdown-toggle.btn-primary:active, .skin-blue .dropdown-toggle.btn-primary:focus, .skin-blue .dropdown-toggle.btn-primary:hover {
+    background-color: #528b2d;
+}
+
+.tbllabditcover{
+	display: inline-block;
+	padding: 18px;
+	width: 100%;
+}
