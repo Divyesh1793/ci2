@@ -6,7 +6,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>ci2</title>
 	<title>ci3</title>
-
 </head>
 <body>
 	
